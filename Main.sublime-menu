@@ -1,0 +1,18 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "M",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "MacDown",
+                "children":
+                [
+                    { "command": "open_macdown", "caption": "Open in MacDown" }
+                ]
+            }
+
+        ]
+    }
+]

@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "MacDown: Open file",
+        "command": "open_macdown"
+    }
+]
